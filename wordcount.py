@@ -11,14 +11,3 @@ for line in file:
 wordCounter= Counter(wordCounter)
 wordCounter.most_common(20)
 file.close()
-
-
-
-
-
-
-
-
-
-
-
